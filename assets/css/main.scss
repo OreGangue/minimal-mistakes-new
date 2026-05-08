@@ -9,3 +9,6 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 @import "minimal-mistakes/custom";
+
+@import 'components/donate.scss';
+@import 'components/donate-components.scss';
