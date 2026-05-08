@@ -7,14 +7,12 @@ main:
     url: /golf-saskatoon/
   - title: "Xmas Calgary"
     url: /xmas-calgary/
-  - title: "Obits"
-    url: /obits/
   - title: "History"
     url: /history/
   - title: "News"
     url: /posts/
   - title: "Contacts"
     url: /contacts/
-
-
+  - title: "Obits"
+    url: /obits/
    
