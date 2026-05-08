@@ -1,9 +1,21 @@
 main:
-  - title: "Posts"
+  - title: "Bursary"
+    url: /bursary/
+  - title: "Golf Calgary"
+    url: /golf-calgary/
+  - title: "Golf Saskatoon"
+    url: /golf-saskatoon/
+  - title: "Xmas Calgary"
+    url: /xmas-calgary/
+  - title: "Obits"
+    url: /obits/
+  - title: "Contacts"
+    url: /contacts/
+  - title: "History"
+    url: /history/
+  - title: "News"
     url: /posts/
   - title: "Categories"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+
+   

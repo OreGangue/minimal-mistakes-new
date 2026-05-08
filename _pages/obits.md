@@ -1,8 +1,107 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /obits/
+title: "Obituaries"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Click on names below to see Obits for following Ore Ganguers & Profs:
+
+[Andrusek, Rick](https://graystributes.funeraltechweb.com/tribute/details/2202/Rick-Andrusek/obituary.html)
+
+[Bilanski, Angie](https://thestarphoenix.remembering.ca/obituary/angela-simpson-bilanski-1086591267)
+
+[Bilenduke, David](https://mhfh.com/tribute/details/37878/David-Bilenduke/obituary.html)
+
+[Boyle, Peter](https://calgaryherald.remembering.ca/obituary/peter-boyle-1089244906)
+
+[Braun, Willi](https://www.oregangue.org/_files/ugd/2a4794_98e61a9261744711bad15d97aaaf82d9.pdf)
+
+[Burnett, Andy](https://calgaryherald.remembering.ca/obituary/andrew-burnett-1083866853)
+
+[Burt, Ian](https://www.arbormemorial.ca/en/hillcrest/obituaries/ian-william-henville-burt/150825.html?fbclid=IwY2xjawOJcEFleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEexyR6jGE-jnWnpJYzKs4u3ed1GxIeZWOjriTcvf9avd2-wPuXiPlHr28q2M0_aem_hmax-5E77nJPN51UQI8BKQ) \*NEW
+
+[Coleman, Les](https://thestarphoenix.remembering.ca/obituary/leslie-coleman-1075813159)
+
+[Fraser, Donald \*NEW](https://www.evanjstrong.com/obituary/Donald-FRASER)
+
+[Fuhrman, Donald](http://www.kindersleyfuneralhome.com/notices/Donald-Fuhrman)
+
+[Gibson, James F.](https://calgaryherald.remembering.ca/obituary/james-gibson-1066017111)\*UPDATE
+
+[Grant, George](http://www.legacy.com/obituaries/calgaryherald/obituary.aspx?n=george-donald-grant&pid=177506189&fhid=6135)
+
+[Hrdy, Frank](https://epaper.vancouversun.com/article/282385518512480?fbclid=IwAR20QXCGftnDLXNknR1zop9kN4ugGq-5krcUgcDATVsO2KIc1512RMBfTPE)
+
+[Hepburn, Jack](https://cochranecountryfuneral.com/hepburn-jack/)
+
+[Holmes, Robert "Darryl"](http://calgarysun.remembering.ca/obituary/robert-darryl-holmes-1072297825)
+
+[Horne, Emmett](https://mhfh.com/tribute/details/37104/Emmett-Horne/obituary.html)
+
+[Kaiser, Greg\*NEW](https://www.arbormemorial.ca/en/leydens-calgary/obituaries/gregory-lee-kaiser/136729.html)
+
+[Kaufmann, Bill](https://calgaryherald.remembering.ca/obituary/william-kaufmann-1088585517)
+
+[Keedwell, Wayne](https://mhfh.com/tribute/details/45434/Wayne-Keedwell/obituary.html)
+
+[Kent, Donald](https://leaderpost.remembering.ca/obituary/donald-kent-1085427632)
+
+[Kerrich, Rob](http://artsandscience.usask.ca/news/n/3543/Obituary_Professor_Robert_Kerrich_Geological_Sciences)
+
+[Kyser, Kurt](https://www.legacy.com/ca/obituaries/theglobeandmail/name/t-kyser-obituary?pid=190004817)
+
+[Lambden, David](https://www.snodgrassfuneralhomes.com/obituaries/David-Robert-Lambden?obId=30801564)
+[\*NEW](https://www.snodgrassfuneralhomes.com/obituaries/David-Robert-Lambden?obId=30801564)
+
+[Larson, Murray](https://drive.google.com/file/d/1SLPlmg3Iis4_PDNZVLaifD7NZgoCYBJq/view?usp=sharing)
+
+[MacNicol, Fraser](https://www.choicememorial.com/memorials/fraser-macnicol/5051086/obituary.php)
+
+[McLeod, George](https://calgaryherald.remembering.ca/obituary/george-mcleod-1066022487)
+
+[Miles, Keith](https://obittree.com/obituary/ca/alberta/calgary/choice-memorial-cremation--funeral-services/keith-miles/3487082/)
+
+[Neumann, Walker](https://www.oregangue.org/_files/ugd/2a4794_e2fa58d9405b45eb9280ac1c38583d7d.docx?dn=NEUMANN%2C%20Walker%20Buck%20obituary.docx)
+
+[Rallison, Alfred](https://www.remembering.ca/obituary/alfred-rallison-1079367925)
+
+[Reynolds, Jim](https://www.oregangue.org/_files/ugd/2a4794_bb5f1ce90e5a4f9c9f39e9edcda22e59.pdf)
+
+[Roeds, Murray](https://www.springfieldfuneralhome.com/obituaries/roed-murray-anderson/)
+
+[Sarjeant, ​William](https://www.oregangue.org/_files/ugd/2a4794_838214b957774bb9836fdf7cecfb9c2b.pdf) 
+
+[Schultz, Dale](https://memorials-en.buffamleveille.com/dale-schultz/5409213/index.php)
+
+[Schuster, Wayne](https://calgaryherald.remembering.ca/obituary/wayne-schuster-1066016552)
+
+[Smith, Donald A.](http://www.legacy.com/obituaries/calgaryherald/obituary.aspx?pid=180787619)
+
+[Spelay, Kevin](https://baileysfuneralhome.com/tribute/details/3431/Kevin-Spelay/obituary.html)
+
+[Stack, Jennifer](https://drive.google.com/open?id=1dZMpHbgoCETXatWzGL8fSh4c2XPJmH5R)
+
+[Stroshein, Robert](https://www.oregangue.org/_files/ugd/2a4794_485a64d0a74f48b2945d5a0b988f3628.pdf)
+
+[Taylor, Brad](https://www.oregangue.org/_files/ugd/2a4794_bb5ccef2e19c47bbbd049b3b198126c1.pdf)
+
+[Vigrass, Laurence](https://leaderpost.remembering.ca/obituary/laurence-vigrass-1083615201)
+
+[Wardlaw, Norman](https://www.mhfh.com/obituaries/Norman-Claude-Wardlaw?obId=45861390)
+[\*NEW](https://www.mhfh.com/obituaries/Norman-Claude-Wardlaw?obId=45861390)
+
+[Wing, Sam](https://www.choicememorial.com/memorials/Wing-Samuel/4134826/)
+
+​
+
+No Obits for following Ore Ganguers:
+
+Graham, Paul 
+
+Lee, Chris 2022
+
+Matthews, Dayle – Graduated 1973.
+
+Pelletier, Brian - Graduated 1991.
+
+​​​

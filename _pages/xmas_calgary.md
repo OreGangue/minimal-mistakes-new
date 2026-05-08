@@ -1,6 +1,6 @@
 ---
-permalink: /xmas_calgary/
-title: "xmas_calgary"
+permalink: /xmas-calgary/
+title: "41st Annual Christmas Social"
 ---
 
 41st Annual Christmas Social
@@ -24,8 +24,6 @@ Organized by: Jeff Boissonneault, Brent McKercher and Holly Nixon
 
  
 
-​
-
 Sponsors
 * Please contact the Organizers if you can help cover expenses
 
@@ -33,5 +31,6 @@ Sponsors
 503 4th Ave SW
 
 THANK-YOU
+
 to last years (2025) Sponsors
 ​

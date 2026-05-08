@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /golf-calgary/
 title: "About"
 ---
 
@@ -34,15 +34,14 @@ Banquet and Awards to follow
 
 ​
 
-​
-
 Registration
 
-https://www.oregangue.org/2026-registration-form
+[Alt text](/golf-calgary-reg/)
+
 
 Sponsorship Opportunities
 
-https://www.oregangue.org/2026-golf-sponsorship-details
+[Alt text](/golf-sponsorship/)
 
 
 Location

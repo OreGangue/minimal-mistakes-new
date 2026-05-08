@@ -1,6 +1,6 @@
 ---
-permalink: /golf_stoon/
-title: "golf_stoon"
+permalink: /golf-saskatoon/
+title: "golf-saskatoon"
 ---
 
 Geoscience Meets Greens Golf Tournament
