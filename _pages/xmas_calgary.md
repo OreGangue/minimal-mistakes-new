@@ -3,12 +3,11 @@ permalink: /xmas-calgary/
 title: "41st Annual Christmas Social"
 ---
 
-41st Annual Christmas Social
-
 CALGARY started in 1985
+
 Merry Christmas
 
-​
+
 
 Thursday December 4, 2025
 

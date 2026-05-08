@@ -68,16 +68,19 @@ author:
     - label: "FaceBook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/groups/545100792338814/?rdid=FPbxC9bZ3gIOsdxC&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F1FChz3FVqb%2F#"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/saskgangue?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fgroups%2F4250430"
+      url: "https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fgroups%2F4250430"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://oregangue.github.io/"
 
+    - label: "Donation"
+      icon: "fas fa-fw fa-coffee" # You can use any Font Awesome icon
+      url: "https://buymeacoffee.com"
 footer:
   links:
     - label: "Website"
@@ -86,15 +89,15 @@ footer:
     - label: "FaceBook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/groups/545100792338814/?rdid=FPbxC9bZ3gIOsdxC&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fg%2F1FChz3FVqb%2F#"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/saskgangue?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fgroups%2F4250430"
+      url: "https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fgroups%2F4250430"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://oregangue.github.io/"
 
 defaults:
   # _posts
@@ -122,3 +125,4 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+

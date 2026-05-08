@@ -1,16 +1,15 @@
 ---
 permalink: /golf-calgary/
-title: "About"
+title: "2026 Annual U of S Ore Gangue Alumni Mashers Golf Tournament"
 ---
 
-2026 Annual U of S Ore Gangue Alumni Mashers Golf Tournament
-Date
+## Date
 
 Wednesday June 17, 2026
 
 ​
 
-Cost 
+## Cost 
 
 Early Bird (until May 19) - $170
 
@@ -18,7 +17,7 @@ Regular - $180 (new registrations close June 10)
 
 ​
 
-Times
+## Times
 
 11:30 to 1:00 pm for Registration
 
@@ -34,17 +33,17 @@ Banquet and Awards to follow
 
 ​
 
-Registration
+## Registration
 
-[Alt text](/golf-calgary-reg/)
-
-
-Sponsorship Opportunities
-
-[Alt text](/golf-sponsorship/)
+[Registration](/golf-calgary-reg/)
 
 
-Location
+## Sponsorship Opportunities
+
+[Sponsorship Opportunities](/golf-sponsorship/)
+
+
+## Location
 
 Elbow Springs Golf Club
 
@@ -52,7 +51,7 @@ Elbow Springs Golf Club
 
 T3Z 2V4
 
-Mulligans for Charity
+## Mulligans for Charity
  
 Mulligans can be purchased day of event or in advance! Last year we raised $1500 for the U of S Michael D. Welch Memorial Book Prize. 
 ​

@@ -3,7 +3,7 @@ permalink: /history/
 title: "History"
 ---
 
-[youtube.com/watch?si=N68VFpn3p6Hjttar&v=zh_QrgtBVIU&feature=youtu.be](https://www.youtube.com/watch?v=zh_QrgtBVIU)
+[85th Anniversary Video](https://www.youtube.com/watch?v=zh_QrgtBVIU)
 
 
 # Who is the Ore Gangue?
@@ -68,32 +68,23 @@ Note: Names have been largely omitted from this article to protect the innocent.
 
 ## References 
  
-Archives of the University of Saskatchewan.  Two boxes of material including Ore Gangue 
-minutes from 1934-64 and many photos. 
+Archives of the University of Saskatchewan.  Two boxes of material including Ore Gangue minutes from 1934-64 and many photos. 
  
-The Concentrates, 1958-59 (expanded version for the Golden Jubilee of the University of 
-Saslatchewan), Ore Gangue Yearbook, Geology Department, University of Saskatchewan. 
+The Concentrates, 1958-59 (expanded version for the Golden Jubilee of the University of Saslatchewan), Ore Gangue Yearbook, Geology Department, University of Saskatchewan. 
  
-The Concentrates, 1968-69, Ore Gangue Yearbook, Geology Department, University of 
-Saskatchewan.  
+The Concentrates, 1968-69, Ore Gangue Yearbook, Geology Department, University of Saskatchewan.  
  
-The Concentrates, 1979-80, Ore Gangue Yearbook, Geology Department, University of 
-Saskatchewan. 
+The Concentrates, 1979-80, Ore Gangue Yearbook, Geology Department, University of Saskatchewan. 
  
-The Concentrates, 1983-84, Ore Gangue Yearbook (50th Anniversary Issue), Geology 
-Department, University of Saskatchewan. 
+The Concentrates, 1983-84, Ore Gangue Yearbook (50th Anniversary Issue), Geology Department, University of Saskatchewan. 
  
-The Concentrates, 1987-88, Ore Gangue Yearbook, Geology Department, University of 
-Saskatchewan. 
+The Concentrates, 1987-88, Ore Gangue Yearbook, Geology Department, University of Saskatchewan. 
  
-The Concentrates, 1998-99, Ore Gangue Yearbook, Geology Department, University of 
-Saskatchewan. 
+The Concentrates, 1998-99, Ore Gangue Yearbook, Geology Department, University of Saskatchewan. 
  
 First Western Inter-University Geological Conference Proceedings, 1965. 
  
 Simpson, Angie, 2004, 70th Anniversary of the Ore Gangue PowerPoint Presentation. 
 
- 
 Thompson, Melvyn, 1932, Letter to Family, courtesy of Ben Hollands. 
  
-
