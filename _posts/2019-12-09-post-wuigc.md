@@ -10,6 +10,7 @@ tags:
 ---
 
 # WIUGC 
+
 The Western Inter-University Geological Conference, also known as WIUGC, was a fantastic opportunity for students to explore Western Canada, connect with fellow geology enthusiasts, and exchange ideas. But let's be honest, it wasn't all serious business!
 
 WIUGC offered some unique activities to keep things lively. Ever heard of cabbage bowling? Yeah, that was a thing. Picture students rolling heads of cabbage down a makeshift lane, aiming for the beer bottle pins.

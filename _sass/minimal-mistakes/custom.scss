@@ -6,32 +6,35 @@
 }
 
 
-.donation-circle {
-  width: 100px;
-  height: 100px;
-  background: #2ea44f; /* GitHub green */
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: transform 0.3s ease;
-}
+// .donation-circle {
+//   width: 100px;
+//   height: 100px;
+//   background: #2ea44f; /* GitHub green */
+//   border-radius: 50%;
+//   display: flex;
+//   align-items: center;
+//   justify-content: center;
+//   transition: transform 0.3s ease;
+// }
 
-.donation-circle:hover {
-  transform: scale(1.1);
-}
+// .donation-circle:hover {
+//   transform: scale(1.1);
+// }
 
-.circle-content span {
-  color: white;
-  font-weight: bold;
-  text-decoration: none;
-}
+// .circle-content span {
+//   color: white;
+//   font-weight: bold;
+//   text-decoration: none;
+// }
+
+
 
 .circular-chart {
+   background: #2ea44f; /* GitHub green */
   display: block;
   margin: 10px auto;
-  max-width: 100px;
-  max-height: 100px;
+  max-width: 200px;
+  max-height: 200px;
 }
 .circle-bg {
   fill: none;
@@ -40,7 +43,7 @@
 }
 .circle {
   fill: none;
-  stroke: #3c9ee0;
+  stroke: #339933;
   stroke-width: 2.8;
   stroke-linecap: round;
   transition: stroke-dasharray 0.3s ease;

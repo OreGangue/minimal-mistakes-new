@@ -1,11 +1,11 @@
 ---
-title: "Post: Link"
+title: "Post: Hockey"
 categories:
   - Blog
 tags:
   - link
   - Post Formats
-link: https://github.com
+
 ---
 
 # Hockey with the Ore Gangue

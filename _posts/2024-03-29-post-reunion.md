@@ -1,5 +1,5 @@
 ---
-title: "Post: Quote"
+title: "Post: Reunion Updates"
 categories:
   - Blog
 tags:

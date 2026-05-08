@@ -1,5 +1,5 @@
 ---
-title: "Post: Notice"
+title: "Post: Ore Gangue Awards"
 categories:
   - Blog
 tags:

@@ -35,5 +35,4 @@ Through these collective efforts, the Ore Gangue Alumni Bursary Fund continues t
 
 
 
-
 [Bursary Fund](https://www.youtube.com/watch?v=ww6UyiJvkc8)

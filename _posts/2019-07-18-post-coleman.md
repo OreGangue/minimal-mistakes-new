@@ -1,5 +1,5 @@
 ---
-title: "Post: Coleman"
+title: "Post: Dr. Les Coleman"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -9,10 +9,7 @@ tags:
   - standard
 ---
 
- Dr. Les Coleman
-*   [Ore Gangue Alumni](https://www.oregangue.org/profile/2a479444-70c1-4bfd-84a4-9ba499ee3c23/profile)
-*   Jul 18, 2019
-
+Dr. Les Coleman
 
 
 Obit Here: [leslie-coleman](https://thestarphoenix.remembering.ca/obituary/leslie-coleman-1075813159)

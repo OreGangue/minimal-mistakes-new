@@ -1,4 +1,3 @@
-
 ---
 title: "Post: 90th Anniversary"
 excerpt_separator: "<!--more-->"

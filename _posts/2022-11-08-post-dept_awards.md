@@ -1,5 +1,5 @@
 ---
-title: "Post: awards to faculty"
+title: "Post: Awards to Faculty"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
