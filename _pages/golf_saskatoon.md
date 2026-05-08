@@ -1,8 +1,49 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /golf_stoon/
+title: "golf_stoon"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Geoscience Meets Greens Golf Tournament
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Date
+
+Friday, September 12, 2025
+
+​
+
+Cost 
+
+Regular Price - $150 per golfer - includes green fees, cart, steak dinner, drink ticket, prizes, and swag.
+
+Dinner-only and breakfast-only options available 
+
+​
+
+Times
+
+8:30 am - Start your day with our open breakfast at Axiom HQ — all players and guests welcome! 
+
+10:00 am shot-gun start
+
+​
+
+​​​
+
+We’re excited to invite you to the Geoscience Meets Greens Golf Tournament, happening Friday, September 12, 2025, at Moon Lake Golf & Country Club in Saskatoon!
+
+​
+
+This event is presented in partnership with Axiom Group + Saskatoon Geoscience Discussion Group (SGDG) + Ore Gangue Alumni. 
+
+​
+
+Skill competitions, staff prize holes, and great giveaways! 
+
+ 
+
+​​Shuttle service from/to Axiom HQ available​
+
+​​
+
+
+​
