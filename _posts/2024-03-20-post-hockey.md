@@ -1,5 +1,5 @@
 ---
-title: "Post: Hockey"
+title: "Post: Hockey with the Ore Gangue"
 categories:
   - Blog
 tags:
@@ -8,7 +8,6 @@ tags:
 
 ---
 
-# Hockey with the Ore Gangue
 Ah, hockey, the beloved pastime of the Ore Gangue student society! From playing on the ice to cheering from the stands, hockey was a big deal for us. We found the earliest photo of the Ore Gangue in 1932, proudly displayed in the Greystone yearbook. Our teams always had a presence in the University of Saskatchewan campus league, and let's not forget the epic battles we had with the biology team!
 
 And let me tell you, our Ore Gangue hockey jerseys were the envy of all. They may have changed over the years, but they were always a collector's item. I wonder how many of our alumni still own those precious jerseys. And hey, do you still fit into yours from back in the university days?

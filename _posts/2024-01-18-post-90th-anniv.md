@@ -9,7 +9,8 @@ tags:
   - standard
 ---
 
-# Jan 18, 2024 is the Ore Gangue 90th Anniversary
+### Jan 18, 2024 is the Ore Gangue 90th Anniversary
+
 Oh, what a journey it has been! 90 years of geological lectures, rocks and minerals, social events, and friendships that have stood the test of time. We owe a huge debt of gratitude to the original Ore Gangue Members and Faculty who laid the foundation for our successful Alumni Group today.
 
 Can you imagine the excitement and passion that must have filled the lecture halls all those years ago? Geology enthusiasts coming together, sharing their love for rocks and minerals, and probably debating the merits of sedimentary versus igneous formations. Oh, the intellectual debates must have been something to behold!

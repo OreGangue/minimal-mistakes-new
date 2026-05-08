@@ -1,12 +1,12 @@
 ---
-title: "Post: Reunion Updates"
+title: "Post: Ore Gangue Reunion Updates"
 categories:
   - Blog
 tags:
   - Post Formats
   - quote
 ---
-# Ore Gangue Reunion Updates
+
 ![](https://static.wixstatic.com/media/741511_c11f899c782248459f78a735c6b69fcc~mv2.jpeg/v1/fill/w_93,h_93,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/741511_c11f899c782248459f78a735c6b69fcc~mv2.jpeg)
 
 Hello everyone!

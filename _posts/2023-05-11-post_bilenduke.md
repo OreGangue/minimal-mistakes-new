@@ -1,5 +1,5 @@
 ---
-title: "Post: Bilenduke"
+title: "Post: Dave Bilenduke Memorial Bursary"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -8,8 +8,6 @@ tags:
   - readability
   - standard
 ---
-
-# Dave Bilenduke Memorial Bursary
 
 ![](https://static.wixstatic.com/media/2a4794_a4fa4dda2e754824bbc128376405a3e7~mv2.jpg/v1/fill/w_147,h_110,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/2a4794_a4fa4dda2e754824bbc128376405a3e7~mv2.jpg)
 

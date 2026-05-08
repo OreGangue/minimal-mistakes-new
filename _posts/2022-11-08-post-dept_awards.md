@@ -1,5 +1,5 @@
 ---
-title: "Post: Awards to Faculty"
+title: "Post: Dept. Awards to Faculty"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -8,9 +8,6 @@ tags:
   - readability
   - standard
 ---
-
-
-# Department of Geological Sciences announces two prestigious awards to faculty.
 
 The Department of Geological Sciences announces two prestigious awards to faculty, Luis Buatois and Brian Pratt.
 

@@ -1,5 +1,5 @@
 ---
-title: "Post: Zortman"
+title: "Post: Zortman Field School"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -8,8 +8,6 @@ tags:
   - readability
   - standard
 ---
-
-# Zortman Field School
 
 Ah, the Zortman field school in Zortman, Montana! A place where memories were made, and mischief was aplenty. From the early 70s till now, the stories have evolved, but the essence remains the same - a mix of drinks, snakes, pool playing, and some secretive shenanigans. And let's not forget the ever-changing "interesting" accommodations that each decade claims to have had the worst.
 

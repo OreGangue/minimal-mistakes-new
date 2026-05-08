@@ -7,7 +7,6 @@ tags:
   - notice
 ---
 
-# Ore Gangue Awards
 Ah, the Ore Gangue awards, those wacky traditions that made our school years a riot! These awards were like the highlight reel of our academic shenanigans, capturing all the crazy moments in one hilarious package. From the serious stuff to the downright silly, they celebrated it all!
 
 You know, these awards changed over time, just like our school culture. New ones popped up, old ones got the boot, but the stories behind them? Oh boy, those were juicy secrets! We kept 'em locked up tight, like a treasure chest of epic memories.

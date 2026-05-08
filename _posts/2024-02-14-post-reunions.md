@@ -10,7 +10,6 @@ tags:
 ---
 
 
-# Ore Gangue Reunions
 
 Throughout the years, the Ore Gangue Alumni have come together for various events, all with the same purpose - to celebrate our shared history and forge lasting connections. Whether it was called the Golden Jubilee, Homecoming Banquet, Anniversary Celebration, or simply a Reunion, the essence remained unchanged. It was a time for us to gather, to reminisce, and to celebrate the bonds that were formed within the hallowed halls of our alma mater.
 

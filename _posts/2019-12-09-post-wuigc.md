@@ -9,8 +9,6 @@ tags:
   - standard
 ---
 
-# WIUGC 
-
 The Western Inter-University Geological Conference, also known as WIUGC, was a fantastic opportunity for students to explore Western Canada, connect with fellow geology enthusiasts, and exchange ideas. But let's be honest, it wasn't all serious business!
 
 WIUGC offered some unique activities to keep things lively. Ever heard of cabbage bowling? Yeah, that was a thing. Picture students rolling heads of cabbage down a makeshift lane, aiming for the beer bottle pins.
@@ -33,10 +31,6 @@ _“ We have noticed the beneficial results on students from talks noted by peop
 
 The first annual WIUGC in ’65 was summarized in the 1964-65 President’s message with the following quote:
 
-_“ In February, the largest single project the Ore Gangue has probably ever undertaken was successfully concluded. This project, the First Western Inter-University Geological_
+_“ In February, the largest single project the Ore Gangue has probably ever undertaken was successfully concluded. This project, the First Western Inter-University Geological Conference, was initiated in November 1964, and was held on February 13, 1965. The central theme, “The Future of Geology”, was very well received by both the speakers and the audience. The conference was organized entirely by the members of the Ore Gangue. Students from Manitoba, Montana, and Alberta attended and supported the conferences.”_
 
-_Conference, was initiated in November 1964, and was held on February 13, 1965. The_
-
-_central theme, “The Future of Geology”, was very well received by both the speakers and the audience. The conference was organized entirely by the members of the Ore Gangue. Students from Manitoba, Montana, and Alberta attended and supported the conferences.”_
-
-Subsequent conventions were held at various Western Canadian Universities. The Department has always been supportive of the event, and the student body has always been appreciative of that support, frequently demonstrating that appreciation in the form of the many souvenirs that ultimately decorated the lounge
+Subsequent conventions were held at various Western Canadian Universities. The Department has always been supportive of the event, and the student body has always been appreciative of that support, frequently demonstrating that appreciation in the form of the many souvenirs that ultimately decorated the lounge.

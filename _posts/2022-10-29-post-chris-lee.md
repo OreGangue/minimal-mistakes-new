@@ -1,5 +1,5 @@
 ---
-title: "Post: Chris Lee"
+title: "Post: Go Fund Me Link for Chris Lee"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -8,9 +8,6 @@ tags:
   - readability
   - standard
 ---
-
-# Go Fund Me Link for Chris Lee
-
 
 As requested, for those not on Facebook, here is the link for Chris Lee.
 
