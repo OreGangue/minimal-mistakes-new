@@ -15,7 +15,6 @@ main:
     url: /history/
   - title: "News"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
+
 
    

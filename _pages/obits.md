@@ -14,7 +14,7 @@ Click on names below to see Obits for following Ore Ganguers & Profs:
 
 [Boyle, Peter](https://calgaryherald.remembering.ca/obituary/peter-boyle-1089244906)
 
-[Braun, Willi](https://www.oregangue.org/_files/ugd/2a4794_98e61a9261744711bad15d97aaaf82d9.pdf)
+[Braun, Willi]("assets\images\obits\Memorial Card Willi Braun.pdf")
 
 [Burnett, Andy](https://calgaryherald.remembering.ca/obituary/andrew-burnett-1083866853)
 
@@ -51,9 +51,9 @@ Click on names below to see Obits for following Ore Ganguers & Profs:
 [Kyser, Kurt](https://www.legacy.com/ca/obituaries/theglobeandmail/name/t-kyser-obituary?pid=190004817)
 
 [Lambden, David](https://www.snodgrassfuneralhomes.com/obituaries/David-Robert-Lambden?obId=30801564)
-[\*NEW](https://www.snodgrassfuneralhomes.com/obituaries/David-Robert-Lambden?obId=30801564)
+[\*NEW]
 
-[Larson, Murray](https://drive.google.com/file/d/1SLPlmg3Iis4_PDNZVLaifD7NZgoCYBJq/view?usp=sharing)
+[Larson, Murray]("assets\images\obits\Murray LARSON _ Obituary _ Calgary Herald.pdf")
 
 [MacNicol, Fraser](https://www.choicememorial.com/memorials/fraser-macnicol/5051086/obituary.php)
 
@@ -61,15 +61,15 @@ Click on names below to see Obits for following Ore Ganguers & Profs:
 
 [Miles, Keith](https://obittree.com/obituary/ca/alberta/calgary/choice-memorial-cremation--funeral-services/keith-miles/3487082/)
 
-[Neumann, Walker](https://www.oregangue.org/_files/ugd/2a4794_e2fa58d9405b45eb9280ac1c38583d7d.docx?dn=NEUMANN%2C%20Walker%20Buck%20obituary.docx)
+[Neumann, Walker]("assets\images\obits\NEUMANN, Walker Buck obituary.pdf")
 
 [Rallison, Alfred](https://www.remembering.ca/obituary/alfred-rallison-1079367925)
 
-[Reynolds, Jim](https://www.oregangue.org/_files/ugd/2a4794_bb5f1ce90e5a4f9c9f39e9edcda22e59.pdf)
+[Reynolds, Jim](assets\images\obits\JimReynoldsObituary.pdf)
 
 [Roeds, Murray](https://www.springfieldfuneralhome.com/obituaries/roed-murray-anderson/)
 
-[Sarjeant, ​William](https://www.oregangue.org/_files/ugd/2a4794_838214b957774bb9836fdf7cecfb9c2b.pdf) 
+[Sarjeant, ​William]("assets\images\obits\William Antony Swithin Sarjeant article in ichnos.pdf")
 
 [Schultz, Dale](https://memorials-en.buffamleveille.com/dale-schultz/5409213/index.php)
 
@@ -81,20 +81,19 @@ Click on names below to see Obits for following Ore Ganguers & Profs:
 
 [Stack, Jennifer](https://drive.google.com/open?id=1dZMpHbgoCETXatWzGL8fSh4c2XPJmH5R)
 
-[Stroshein, Robert](https://www.oregangue.org/_files/ugd/2a4794_485a64d0a74f48b2945d5a0b988f3628.pdf)
+[Stroshein, Robert]("assets\images\obits\Robert Stroshein Obituary Yukon Hansard 2013.pdf")
 
-[Taylor, Brad](https://www.oregangue.org/_files/ugd/2a4794_bb5ccef2e19c47bbbd049b3b198126c1.pdf)
+[Taylor, Brad]("assets\images\obits\Brad Taylor Obituary and Comments Nov 24-18 v2.pdf")
 
 [Vigrass, Laurence](https://leaderpost.remembering.ca/obituary/laurence-vigrass-1083615201)
 
 [Wardlaw, Norman](https://www.mhfh.com/obituaries/Norman-Claude-Wardlaw?obId=45861390)
-[\*NEW](https://www.mhfh.com/obituaries/Norman-Claude-Wardlaw?obId=45861390)
 
 [Wing, Sam](https://www.choicememorial.com/memorials/Wing-Samuel/4134826/)
 
 ​
 
-No Obits for following Ore Ganguers:
+No Obits for the following Ore Ganguers:
 
 Graham, Paul 
 

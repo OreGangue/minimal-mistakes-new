@@ -76,7 +76,7 @@ author:
       url: "https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fgroups%2F4250430"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://oregangue.github.io/"
+      url: "https://www.github.com/oregangue"
 
 footer:
   links:
@@ -94,7 +94,7 @@ footer:
       url: "https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fgroups%2F4250430"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://oregangue.github.io/"
+      url: "https://www.github.com/oregangue"
 
 defaults:
   # _posts
