@@ -163,31 +163,13 @@ Ore Gangue Alumni award winners:
 
 donation level - 259,514 as of April 2025
 
-
-
-
-<div class="donate-wrapper">
-  <div class="header-container header-container--donate">
-    <div class="donate-banner-text">
-      <h1 class="title1">Donate to Hack for LA</h1>
-      <p>
-        In support of the development and launch of enterprise software
-      products with Government and nonprofit partners, we are standardizing
-      our infrastructure and procedures. This enables Hack for LA to provide
-      world-class training to our members and valuable, scalable, impactful
-      products to the community.
-      </p>
-    </div>
-    {% include donation/donation-circles.html %}
-  </div>
-  <div class="content-section join-us-card-container">
-    <div class="page-card card-primary page-card-lg page-card--donate">
-      <h3 class="title6 donate-title ">Provide In-Kind Software & Services</h3>
-        {% include donation/in-kind.html %}
-    </div>  
-    <div class="page-card card-primary page-card-lg page-card--donate">  
-      <h3 class="title6 donate-title">Make a Donation</h3>
-        {% include donation/donate-gif-text.html %}
-    </div>
-  </div>
+<div class="progress-button">
+  <svg viewBox="0 0 36 36" class="circular-chart">
+    <path class="circle-bg" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831  a 15.9155 15.9155 0 0 1 0 -31.831"/>
+    <path class="circle"
+      stroke-dasharray="70, 100"  d="M18 2.0845  a 15.9155 15.9155 0 0 1 0 31.831  a 15.9155 15.9155 0 0 1 0 -31.831"
+    />
+    <text x="18" y="20.35" class="percentage">70%</text>
+  </svg>
 </div>
+
