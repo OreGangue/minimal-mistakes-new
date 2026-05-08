@@ -9,12 +9,12 @@ main:
     url: /xmas-calgary/
   - title: "Obits"
     url: /obits/
-  - title: "Contacts"
-    url: /contacts/
   - title: "History"
     url: /history/
   - title: "News"
     url: /posts/
+  - title: "Contacts"
+    url: /contacts/
 
 
    

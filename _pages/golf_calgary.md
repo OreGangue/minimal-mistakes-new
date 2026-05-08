@@ -7,17 +7,18 @@ title: "2026 Annual U of S Ore Gangue Alumni Mashers Golf Tournament"
 
 Wednesday June 17, 2026
 
-​## Cost 
+## Cost 
 
 Early Bird (until May 19) - $170
 
 Regular - $180 (new registrations close June 10)
 
-​## Times
+
+## Times
 
 11:30 to 1:00 pm for Registration
 
-1:04 pm start of tee-times[^1]
+1:04 pm start of tee-times [^1]
 
 Banquet and Awards to follow 
 

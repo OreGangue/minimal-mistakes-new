@@ -3,7 +3,7 @@ permalink: /golf-sponsorship/
 title: "2026 Sponsorship Opportunities"
 ---
 
-Dear Friends of the University of Saskatchewan Ore Gangue Geological Society: 
+**Dear Friends of the University of Saskatchewan Ore Gangue Geological Society:**
 
 The Ore Gangue Geological Students' Society is the University of Saskatchewan's longest running student society. Founded in 1934, the society to this day continues to foster interest in the Earth Sciences, to help establish lifelong professional networks, and to inspire geoscientists and geological engineers alike. 
 
@@ -13,5 +13,5 @@ You can support the Ore Gangue Golf Tournament through monetary or in-kind donat
 
 Corporate sponsorship includes promotion of your company according to the following sponsorship tiers: 
 
-[2026 Levels](assets/images/sponsor_levels_2026.png)
+[2026 Levels]("assets/images/sponsor_levels_2026.png")
 

@@ -22,7 +22,7 @@ Click on names below to see Obits for following Ore Ganguers & Profs:
 
 [Coleman, Les](https://thestarphoenix.remembering.ca/obituary/leslie-coleman-1075813159)
 
-[Fraser, Donald \*NEW](https://www.evanjstrong.com/obituary/Donald-FRASER)
+[Fraser, Donald](https://www.evanjstrong.com/obituary/Donald-FRASER)\*NEW
 
 [Fuhrman, Donald](http://www.kindersleyfuneralhome.com/notices/Donald-Fuhrman)
 
@@ -38,7 +38,7 @@ Click on names below to see Obits for following Ore Ganguers & Profs:
 
 [Horne, Emmett](https://mhfh.com/tribute/details/37104/Emmett-Horne/obituary.html)
 
-[Kaiser, Greg\*NEW](https://www.arbormemorial.ca/en/leydens-calgary/obituaries/gregory-lee-kaiser/136729.html)
+[Kaiser, Greg](https://www.arbormemorial.ca/en/leydens-calgary/obituaries/gregory-lee-kaiser/136729.html)\*NEW
 
 [Kaufmann, Bill](https://calgaryherald.remembering.ca/obituary/william-kaufmann-1088585517)
 
@@ -50,8 +50,7 @@ Click on names below to see Obits for following Ore Ganguers & Profs:
 
 [Kyser, Kurt](https://www.legacy.com/ca/obituaries/theglobeandmail/name/t-kyser-obituary?pid=190004817)
 
-[Lambden, David](https://www.snodgrassfuneralhomes.com/obituaries/David-Robert-Lambden?obId=30801564)
-[\*NEW]
+[Lambden, David](https://www.snodgrassfuneralhomes.com/obituaries/David-Robert-Lambden?obId=30801564) \*NEW
 
 [Larson, Murray]("assets\images\obits\Murray LARSON _ Obituary _ Calgary Herald.pdf")
 
@@ -93,7 +92,7 @@ Click on names below to see Obits for following Ore Ganguers & Profs:
 
 ​
 
-No Obits for the following Ore Ganguers:
+## No Obits for the following Ore Ganguers:
 
 Graham, Paul 
 
