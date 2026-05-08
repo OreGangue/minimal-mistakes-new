@@ -10,7 +10,7 @@ tags:
 ---
 
 
-![](https://static.wixstatic.com/media/2a4794_0352171785634539baffc86057da40b9~mv2.jpg/v1/fill/w_147,h_110,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/2a4794_0352171785634539baffc86057da40b9~mv2.jpg)
+[]("assets\images\IMG_9821_bowl_bld.JPG")
 
 The Ore Gangue Bursary Fund MATCHING PROGRAM starts now and goes until December 15th!
 

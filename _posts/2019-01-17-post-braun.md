@@ -12,7 +12,7 @@ tags:
 # Dr. W.K. Braun
 
 
-![From the Concentrates, 1981-1982](https://static.wixstatic.com/media/2a4794_1ab9ed4ae972466bbf726efdbf21dbc6~mv2_d_1487_1672_s_2.jpg/v1/fill/w_147,h_165,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/2a4794_1ab9ed4ae972466bbf726efdbf21dbc6~mv2_d_1487_1672_s_2.jpg)
+![From the Concentrates, 1981-1982]("assets\images\1982-83 Concentrates_Dr Braun.jpg")
 
 
 Dr. Braun passed away peacefully on January 16th.

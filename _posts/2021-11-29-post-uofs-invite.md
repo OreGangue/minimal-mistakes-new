@@ -10,7 +10,7 @@ tags:
 ---
 
 
-![](https://static.wixstatic.com/media/2a4794_4c2b830b34ef422b9906152056075b62~mv2.jpg/v1/fill/w_147,h_77,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/2a4794_4c2b830b34ef422b9906152056075b62~mv2.jpg)
+[]("assets\images\Calgary-Alumnights-FB-V1.jpg")
 
 On Wednesday, Dec. 15, 2021, the College of Arts and Science will host a casual gathering for Ore Gangue and Department of Geological Sciences alumni at the new University of Saskatchewan (USask) Calgary Hub.
 

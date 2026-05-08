@@ -7,9 +7,7 @@ tags:
   - quote
 ---
 
-![](https://static.wixstatic.com/media/741511_c11f899c782248459f78a735c6b69fcc~mv2.jpeg/v1/fill/w_93,h_93,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/741511_c11f899c782248459f78a735c6b69fcc~mv2.jpeg)
-
-Hello everyone!
+## Hello everyone!
 
 Looking forward to the upcoming reunion - just over a month away! I wanted to send some updates and notes to everyone that has registered.
 

@@ -7,8 +7,8 @@ tags:
   - Post Formats
 ---
 
-# What is next for the History Document?
-![](https://static.wixstatic.com/media/741511_69043f3beb8f434691eddeb09c0a8278~mv2.png/v1/fill/w_69,h_19,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/741511_69043f3beb8f434691eddeb09c0a8278~mv2.png)
+## What's next for the History Document?
+
 
 The 90th reunion was truly a memorable event, and it's hard to believe that our 100th reunion will be upon us before we know it! In preparation for our upcoming 100th reunion, it is essential that we update and incorporate new data into The Concentrates. But don't worry, this will be more of an update than a complete overhaul, building upon the 85th edition.
 

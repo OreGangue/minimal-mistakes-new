@@ -1,5 +1,5 @@
 ---
-title: "Post: Crawford"
+title: "Post: Sandy Crawford Memorial Bikeathon"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
@@ -9,8 +9,7 @@ tags:
   - standard
 ---
 
-### Sandy Crawford Memorial Bikeathon
-![](https://static.wixstatic.com/media/2a4794_acfaf6877c864b18b3589740875b28a8~mv2.png/v1/fill/w_73,h_49,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/2a4794_acfaf6877c864b18b3589740875b28a8~mv2.png)
+[]("assets\images\bikethon.png")
 
 Dear Friends,
 

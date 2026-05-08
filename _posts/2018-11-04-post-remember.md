@@ -9,7 +9,7 @@ tags:
   - standard
 ---
 
-![]("assets/images/MG135_Box1_Photos_1937-[1959]_009_edited.jpg")
+![]("assets\images\MG135_Box1_Photos_1937-[1959]_009_edited.jpg")
 
 Like countless schools and other public institutions across Saskatchewan and the rest of Canada, the geology department and the Ore Gangue (OG) geology club of the University of Saskatchewan (U of S) lost fellow students and graduates on the European theatre of World War II, between September 1939 and May 1945, when Germany surrendered. World War II has the dubious distinction of having been the bloodiest conflict humanity has even known, with the death toll alone reaching the tens of millions.
 

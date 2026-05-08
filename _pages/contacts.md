@@ -4,9 +4,6 @@ title: "Contacts"
 ---
 
 
-Any questions? Use this form to contact us!
-
-
 Update Contact Info
 -------------------
 
@@ -17,15 +14,12 @@ Thanks for updating!
 Other Contacts
 --------------
 
-[USask Dept Geo Sci]https://artsandscience.usask.ca/geology/index.php)
+[USask Dept Geo Sci](https://artsandscience.usask.ca/geology/index.php)
 
 [Newsletter Signup](http://eepurl.com/diLBX1)
 
 [Sask gangue Signup](mailto:saskatoon.oreganguealumni@gmail.com)
 
-Any questions? Use this form to contact us!
+Any questions? Use this form to contact the Ore Gangue!
 -------------------------------------------
 
-Corey H. Geophysicist, Data Scientist
-
-Tracey J. Geologist
