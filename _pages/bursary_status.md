@@ -19,7 +19,7 @@ Donation level - $259,514 as of April 2025. Goal is $500,000
 </div>
 
 
-[Bursary 2024-2025 Report]("assets\images\Ore Gangue Alumni Bursary 2024-2025.pdf")
+[Bursary 2024-2025 Report]("{{ site.url }}{{ site.baseurl }}/assets/images/Ore Gangue Alumni Bursary 2024-2025.pdf")
 
 [2024 Bursary Video](https://www.youtube.com/watch?v=ww6UyiJvkc8)
 

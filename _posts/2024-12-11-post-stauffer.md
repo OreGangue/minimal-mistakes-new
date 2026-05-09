@@ -19,7 +19,7 @@ This fund, established in memory of Mel, will support students who are enrolled 
 
 ![Memorial Site:](https://sites.google.com/view/bookofmel/home?fbclid=IwY2xjawHGhAJleHRuA2FlbQIxMAABHQhrxVNJJ-dPlqNh-I1moT1TAiRp35v5NwjPc_Tf-A3BTQvbyy2skNbXfg_aem_eMWLkvJEHkZqfLoyJdQGlA)
 
-![PDF from Christmas Party](/assets/images/stauffer in memory 16x10.pdf)
+![PDF from Christmas Party]({{ site.url }}{{ site.baseurl }}/assets/images/stauffer in memory 16x10.pdf')
 
 ![Scholarship:](https://donate.usask.ca/online/artsandscience.php?fund_code=100248STAUFSUS)
 

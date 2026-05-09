@@ -13,5 +13,5 @@ You can support the Ore Gangue Golf Tournament through monetary or in-kind donat
 
 Corporate sponsorship includes promotion of your company according to the following sponsorship tiers: 
 
-[2026 Levels]("assets/images/sponsor_levels_2026.png")
+[2026 Levels]("{{ site.url }}{{ site.baseurl }}/assets/images/sponsor_levels_2026.png")
 
