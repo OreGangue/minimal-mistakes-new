@@ -5,18 +5,9 @@ layout: single
 ---
 
 
-## Search
-
 ![Remembering Mel Stauffer](https://static.wixstatic.com/media/741511_c39d684a26b3458e9d1dff6124dd1ded~mv2.jpg/v1/fill/w_444,h_250,fp_0.50_0.50,q_30,blur_30,enc_avif,quality_auto/741511_c39d684a26b3458e9d1dff6124dd1ded~mv2.webp)![Remembering Mel Stauffer](https://static.wixstatic.com/media/741511_c39d684a26b3458e9d1dff6124dd1ded~mv2.jpg/v1/fill/w_293,h_165,fp_0.50_0.50,q_90,enc_avif,quality_auto/741511_c39d684a26b3458e9d1dff6124dd1ded~mv2.webp)
 
-[
-
-Remembering Mel Stauffer
-------------------------
-
-
-
-](https://www.oregangue.org/post/remembering-mel-stauffer)
+[Remembering Mel Stauffer](https://www.oregangue.org/post/remembering-mel-stauffer)
 
 Dec 11, 20241 min read
 

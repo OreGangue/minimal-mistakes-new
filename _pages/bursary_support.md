@@ -4,13 +4,11 @@ title: "Bursary Fund Donate"
 layout: single
 ---
 
-How can you support the Department of Geological Sciences and its students?
+**How can you support the Department of Geological Sciences and its students?**
 
 The world needs leaders, innovators, thinkers, and doers. The world needs problem solvers and global citizens that will confront the challenges and opportunities ahead.  Our alumni and donors play an integral role in ensuring our remarkable students are able to receive a world-class University of Saskatchewan education and become the next generation of leaders, professionals, and community members the world needs.
 
-​
-
-We are striving to inspire students to succeed by investing in tomorrow’s thinkers and creators. We are seeking the critical philanthropic support needed to reach new levels of excellence in each of these areas for the students of the Department of Geological Sciences.
+​We are striving to inspire students to succeed by investing in tomorrow’s thinkers and creators. We are seeking the critical philanthropic support needed to reach new levels of excellence in each of these areas for the students of the Department of Geological Sciences.
 
 ## How to Donate online
 
