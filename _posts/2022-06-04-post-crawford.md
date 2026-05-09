@@ -9,7 +9,7 @@ tags:
   - standard
 ---
 
-[](/assets/images/bikethon.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/bikethon.png)
 
 Dear Friends,
 

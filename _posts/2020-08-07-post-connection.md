@@ -13,5 +13,5 @@ tags:
 
 The U of S Alumni association interviewed a few us of for this article. Take a look.
 
-[](https://alumni.usask.ca/news/2020/a-connection-as-solid-as-a-rock.php)
+![](https://alumni.usask.ca/news/2020/a-connection-as-solid-as-a-rock.php)
 
