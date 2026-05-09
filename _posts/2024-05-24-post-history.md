@@ -1,13 +1,11 @@
 ---
-title: "Post: History Document?"
+title: "Post: What's next for the History Document?"
 categories:
   - Blog
 tags:
   - chat
   - Post Formats
 ---
-
-## What's next for the History Document?
 
 
 The 90th reunion was truly a memorable event, and it's hard to believe that our 100th reunion will be upon us before we know it! In preparation for our upcoming 100th reunion, it is essential that we update and incorporate new data into The Concentrates. But don't worry, this will be more of an update than a complete overhaul, building upon the 85th edition.
