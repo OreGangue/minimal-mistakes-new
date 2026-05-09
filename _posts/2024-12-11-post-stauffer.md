@@ -17,11 +17,11 @@ Mel Stauffer was a passionate geologist, accomplished scholar, and professor eme
 This fund, established in memory of Mel, will support students who are enrolled in experiential-learning courses (such as field schools and field-based courses) in the Department of Geological Sciences in the College of Arts and Science, University of Saskatchewan.
 
 
-![Memorial Site:](https://sites.google.com/view/bookofmel/home?fbclid=IwY2xjawHGhAJleHRuA2FlbQIxMAABHQhrxVNJJ-dPlqNh-I1moT1TAiRp35v5NwjPc_Tf-A3BTQvbyy2skNbXfg_aem_eMWLkvJEHkZqfLoyJdQGlA)
+[Memorial Site:](https://sites.google.com/view/bookofmel/home?fbclid=IwY2xjawHGhAJleHRuA2FlbQIxMAABHQhrxVNJJ-dPlqNh-I1moT1TAiRp35v5NwjPc_Tf-A3BTQvbyy2skNbXfg_aem_eMWLkvJEHkZqfLoyJdQGlA)
 
 ![PDF from Christmas Party]({{ site.url }}{{ site.baseurl }}/assets/images/stauffer in memory 16x10.pdf)
 
-![Scholarship:](https://donate.usask.ca/online/artsandscience.php?fund_code=100248STAUFSUS)
+[Scholarship:](https://donate.usask.ca/online/artsandscience.php?fund_code=100248STAUFSUS)
 
-![Obituary:](https://www.dignitymemorial.com/obituaries/saskatoon-sk/melvyn-stauffer-12106096)
+[Obituary:](https://www.dignitymemorial.com/obituaries/saskatoon-sk/melvyn-stauffer-12106096)
 

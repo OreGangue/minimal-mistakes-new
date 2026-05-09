@@ -24,6 +24,7 @@ minimal_mistakes_skin: default
 search: true
 baseurl: /minimal-mistakes-new
 url: https://oregangue.github.io
+# url: https://www.oregangue.org
 
 # Build settings
 markdown: kramdown
