@@ -9,7 +9,7 @@ tags:
   - standard
 ---
 
-[]("assets\images\bikethon.png")
+[](\assets\images\bikethon.png)
 
 Dear Friends,
 

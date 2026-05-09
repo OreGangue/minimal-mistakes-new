@@ -9,7 +9,7 @@ tags:
   - standard
 ---
 
-[]("assets\images\IMG_3896_dino.JPG")
+![](\assets\images\IMG_3896_dino.JPG)
 
 To purchase Ore Gangue Socks in Honor of Angie Bilanski Simpson go to this website:
 

@@ -9,13 +9,10 @@ tags:
   - standard
 ---
 
-# Group photos available
-
-
 The U of S Arts and Science page has been updated with photos from the 85th Reunion. If you have additional photos you want to share with the Ore Gangue, send them to oreganguealumni@gmail.com.
 
 ![](https://www.flickr.com/photos/usaskartsci/albums)
 
-![]("assets\images\UofS_A0A8512.jpg")
+![](\assets\images\UofS_A0A8512.jpg)
 
 
