@@ -13,6 +13,6 @@ The U of S Arts and Science page has been updated with photos from the 85th Reun
 
 ![](https://www.flickr.com/photos/usaskartsci/albums)
 
-![](\assets\images\UofS_A0A8512.jpg)
+![](/assets/images/UofS_A0A8512.jpg)
 
 
