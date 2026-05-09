@@ -9,7 +9,7 @@ tags:
   - standard
 ---
 
-![](/assets/images/IMG_0923_connection.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/IMG_0923_connection.jpg)
 
 The U of S Alumni association interviewed a few us of for this article. Take a look.
 

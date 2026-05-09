@@ -1,6 +1,8 @@
 ---
 permalink: /golf-saskatoon/
 title: "Geoscience Meets Greens Golf Tournament"
+header:
+  image: '/assets/images/IMG_0125_header_cropped.jpg'
 ---
 
 We’re excited to invite you to the Geoscience Meets Greens Golf Tournament, happening Friday, September 12, 2025, at Moon Lake Golf & Country Club in Saskatoon!

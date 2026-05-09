@@ -1,6 +1,8 @@
 ---
 permalink: /golf-sponsorship/
 title: "2026 Sponsorship Opportunities"
+header:
+  image: '/assets/images/IMG_0125_header_cropped.jpg'
 ---
 
 **Dear Friends of the University of Saskatchewan Ore Gangue Geological Society:**
