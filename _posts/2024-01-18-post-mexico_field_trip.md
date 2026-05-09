@@ -10,7 +10,7 @@ tags:
 ---
 
 
-![](https://static.wixstatic.com/media/741511_aaf4efaf22e34e83bed9259411be72fa~mv2.jpg/v1/fill/w_147,h_92,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/741511_aaf4efaf22e34e83bed9259411be72fa~mv2.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/mexico_field_school.jpg)
 
 Ah, the infamous Mexican adventure of 2004! Now, I know we're all dying to hear about the 38 students and their drinking stories. But, my dear friends, let's remember that what happens in Mexico, stays in Mexico - or so we hope! Now, I'm sure each one of those students has their own wild tale to tell, but let's just say it involved a lot of tequila, questionable dance moves, and some unforgettable memories.
 

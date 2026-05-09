@@ -13,7 +13,7 @@ tags:
 
 To purchase Ore Gangue Socks in Honor of Angie Bilanski Simpson go to this website:
 
-[in-memory-of-angie](https://oreganguealumni.wixsite.com/in-memory-of-angie)
+[in-memory-of-angie](in-memory-of-angie.md)
 
 To donate to Olds College Bursary in Honor Of Dave Bilenduke read this blog:
 

@@ -7,7 +7,6 @@ tags:
   - Post Formats
 ---
 
-
 The 90th reunion was truly a memorable event, and it's hard to believe that our 100th reunion will be upon us before we know it! In preparation for our upcoming 100th reunion, it is essential that we update and incorporate new data into The Concentrates. But don't worry, this will be more of an update than a complete overhaul, building upon the 85th edition.
 
 First and foremost, I want to express my gratitude to Mel Stauffer for pointing out some mistakes. I eagerly await his comments to incorporate them into our next edition. I would also like to extend a heartfelt thank you to Katie Klymyshyn and Morgan Dunham for their preliminary work on updating the year summaries since 2009 and working on a fresh cover design. Additionally, I would like to express my appreciation to Hayden Brown and Trevor Bohay for their valuable contributions with archival material. 
